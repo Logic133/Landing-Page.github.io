@@ -20,7 +20,7 @@ WellnessHub is a comprehensive healthcare website designed to empower individual
 To run this website, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/healthlink/healthlink.git`
-2. Navigate to the project directory: `cd healthlink`
+2. Navigate to the project directory: `cd files`
 3. Open the index.html file in your preferred web browser.
 
 ## Contributing
